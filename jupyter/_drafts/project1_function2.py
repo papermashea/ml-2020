@@ -1,18 +1,6 @@
 def process_raw_data(fn, my_random_seed, test=False):
     # read and summarize data
     toxic_data = pd.read_csv(fn)
-    # if (not test):
-    #     # add an indicator for any toxic, severe toxic, obscene, threat, insult, or indentity hate
-    #     toxic_data['any_toxic'] = (toxic_data['toxic'] + toxic_data['severe_toxic'] + toxic_data['obscene'] + toxic_data['threat'] + toxic_data['insult'] + toxic_data['identity_hate'] > 0)
-    # print("toxic_data is:", type(toxic_data))
-    # print("toxic_data has", toxic_data.shape[0], "rows and", toxic_data.shape[1], "columns", "\n")
-    # print("the data types for each of the columns in toxic_data:")
-    # print(toxic_data.dtypes, "\n")
-    # print("the first 10 rows in toxic_data:")
-    # print(toxic_data.head(10))
-    # if (not test):
-    #     print("The rate of 'toxic' Wikipedia comments in the dataset: ")
-    #     print(toxic_data['any_toxic'].mean())
 
     # vectorize Bag of Words from review text; as sparse matrix
     hv = HashingVectorizer(n_features=2 ** 17, alternate_sign=False)
