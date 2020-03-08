@@ -1,3 +1,4 @@
+.DS_Store
 jupyter/data/nyc_fare.csv
 jupyter/data/nyc_taxi.zip
 jupyter/data/nyc_data.csv 
