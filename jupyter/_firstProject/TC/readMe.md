@@ -26,7 +26,7 @@ notes
 	insult: 0.997877107225669
 	identity hate: 0.9985821269662217
 + random forest classifier decreased accurcy drastically when all but obscene feature was removed
-+ best features + model combination: = Accuracy: 0.9998276618411982 
++ best features + model combination: = Accuracy (train): 0.9998276618411982, Accuracy (test): 0.9924173586088046 
 	threat
 	exclamation
 	allCaps
