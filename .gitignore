@@ -1,4 +1,4 @@
-jupyter/data/nyc_taxi.csv
+jupyter/data/nyc_fare.csv
 jupyter/data/nyc_taxi.zip
 jupyter/_firstProject/final_data/toxiccomments_train.csv
 *.csv
