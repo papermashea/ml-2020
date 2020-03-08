@@ -32,3 +32,6 @@ class BinaryClassificationPerformance():
         self.performance_df['fp_ind'] = ((self.performance_df['preds'] == True) & (self.performance_df['labls'] == False))
         self.image_indices['TP_indices'] = np.where(self.performance_df['tp_ind']==True)[0].tolist()
         self.image_indices['FP_indices'] = np.where(self.performance_df['fp_ind']==True)[0].tolist()
+
+    # def to_bool(s):
+    # return 1 if s == 'true' else 0

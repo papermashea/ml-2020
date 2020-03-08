@@ -1,0 +1,20 @@
+git filter-branch --force --index-filter \
+  'git rm --cached --ignore-unmatch jupyter/_firstProject/final_data/toxiccomments_train.csv' \
+  --prune-empty --tag-name-filter cat -- --all
+
+git filter-branch --force --index-filter \
+  'git rm --cached --ignore-unmatch jupyter/data/nyc_fare.csv' \
+  --prune-empty --tag-name-filter cat -- --all
+
+git filter-branch --force --index-filter \
+  'git rm --cached --ignore-unmatch jupyter/data/nyc_taxi.zip' \
+  --prune-empty --tag-name-filter cat -- --all
+
+git filter-branch --force --index-filter \
+  'git rm --cached --ignore-unmatch jupyter/data/nyc_data.csv ' \
+  --prune-empty --tag-name-filter cat -- --all
+
+
+c
+
+
