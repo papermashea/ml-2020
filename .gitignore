@@ -1,5 +1,6 @@
-jupyter/data/
-jupyter/_firstProject/final_data
+jupyter/data/nyc_taxi.csv
+jupyter/data/nyc_taxi.zip
+jupyter/_firstProject/final_data/toxiccomments_train.csv
 *.csv
 *.zip
 *.tsv
