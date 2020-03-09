@@ -13,11 +13,11 @@
             
             # testing removing all but one feature
             # toxic_data['any_toxic'] = ( toxic_data['obscene'] > 0 )
-            toxic_data['any_toxic'] = ( toxic_data['threat'] > 0 )     
+            # toxic_data['any_toxic'] = ( toxic_data['threat'] > 0 )     
             # toxic_data['any_toxic'] = ( toxic_data['insult'] > 0 )       
             # toxic_data['any_toxic'] = ( toxic_data['identity_hate'] > 0 )     
 
-            # toxic_data['any_toxic'] = (toxic_data['obscene'] + toxic_data['threat'] + toxic_data['insult'] + toxic_data['identity_hate'] > 0 )
+            toxic_data['any_toxic'] = (toxic_data['obscene'] + toxic_data['threat'] + toxic_data['insult'] + toxic_data['identity_hate'] > 0 )
             # print("toxic_data is:", type(toxic_data))
             # print("toxic_data has", toxic_data.shape[0], "rows and", toxic_data.shape[1], "columns", "\n")
             # print("the data types for each of the columns in toxic_data:")
