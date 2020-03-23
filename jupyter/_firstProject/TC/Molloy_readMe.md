@@ -8,6 +8,11 @@ v1: 20200311
 - converted isupper boolean to integers (False = 0.0, True = 1.0)	
 - added sjw count
 
+
+resubmit notes:
+I think I figured it out ok but I'm having a really hard time focusing these days so if I am not grasping something from the video, please just let me know!
+
+
 notes
 + it is hard to quantify language parameters without censoring speech or punctuation parameters without overfitting
 + a lot of the false positives in data seems very concerned about toxicity policing
@@ -32,6 +37,8 @@ notes
 	sjw_count
 	model: logistical regression
 + in generating the submission code, the mean was WAY low, so I re-added the original qualitative measures
+
+
 
 
 
