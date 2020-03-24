@@ -570,6 +570,36 @@
   },
   {
    "cell_type": "code",
+   "execution_count": 48,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "(159571, 2)"
+      ]
+     },
+     "execution_count": 48,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "my_submission.shape"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 49,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# EXPORT FINAL SUBMISSION:\n",
+    "my_submission.to_csv('/Users/smolloy/Dev/parsons/ml-2020/jupyter/_firstProject/TC/molloy_toxiccommentsV1_submission.csv', index=False)"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": null,
    "metadata": {},
    "outputs": [],

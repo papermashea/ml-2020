@@ -1,4 +1,4 @@
-v1: 20200311
+v1: 20200323
 - removed feedback loop incorporating toxic and severely toxic ratings as toxic
 	tested insult/threat/hate speech/identity hate variations
 - removed word count as per twitter civility (see article in "research" folder: https://academic.oup.com/joc/article-abstract/69/4/345/5547032?redirectedFrom=fulltext
