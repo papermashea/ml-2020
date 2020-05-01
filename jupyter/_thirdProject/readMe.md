@@ -23,12 +23,14 @@
 ### Methods
 In this iteration, I chose to proceed by clustering acccording to value, hue, texture, and spacial dimension. I proceeded with 10 clusters as the plots showed a smaller difference in size of clusters across these than in other breakdown; although 8 clusters was similar in cluster balance, I went with 10 because the smaller clusters seemed like less of an outlier when there were a few more smaller groups.
 
+![8 clusters was my scon choice](images/8clusters.png) ![10 clusters was my first choice](images/10clusters.png)
+
 Looking at these variables provided a lot of insight into characteristics like depth and form of the works. I went pretty abstract in describing these clusters, please understand that I was having a great time with it.
 
 
 ## Iteration 1 Cluster Analysis:
 **Cluster 0:  The Colorful Boundaries Collection**  
-Images in cluster 0 can be identified with their colorful, primarily primary, palettes. The shapes have strong, 
+Images in cluster 0 can be identified with their colorful, primarily primary, palettes. The shapes have strong lines and bold forms.  
 
 **Cluster 1: The Deep Monotonous Dream Collection**  
 Images in cluster 1 are consistent with their ambiguous lines and sharp perspectives. This collection is noted by the varied depth of the images, as well as their limited coloration.
@@ -54,5 +56,5 @@ Images in cluster 7 are noted by their representations of singular objects, whet
 **Cluster 8: The Wild Wooden Collecion**  
 The images in cluster 8 contain mostly natural palettes, with organic textures and warm lighting. They present contained shapes and often fantastic ideas.
 
-**Cluster 9: The Droopy Grunge Collection**  
+**Cluster 9: The Droopy Grunge Collection**  		
 The images in cluster 9 are seen as melancholy in intention, with a wide variety of color usage and grungy textures. These images are often segmented composition, and contain subtle movement.
