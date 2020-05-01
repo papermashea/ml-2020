@@ -31,12 +31,15 @@ Looking at these variables provided a lot of insight into characteristics like d
 ## Iteration 1 Cluster Analysis:
 **Cluster 0:  The Colorful Boundaries Collection**  
 Images in cluster 0 can be identified with their colorful, primarily primary, palettes. The shapes have strong lines and bold forms.  
+![cluster image](images/cluster0a.png) ![cluster image](images/cluster0b.png) ![cluster image](images/cluster0c.png)  
 
 **Cluster 1: The Deep Monotonous Dream Collection**  
-Images in cluster 1 are consistent with their ambiguous lines and sharp perspectives. This collection is noted by the varied depth of the images, as well as their limited coloration.
+Images in cluster 1 are consistent with their ambiguous lines and sharp perspectives. This collection is noted by the varied depth of the images, as well as their limited coloration.  
+![cluster image](images/cluster1a.png) ![cluster image](images/cluster1b.png) ![cluster image](images/cluster1c.png)  
 
 **Cluster 2: The Blurred Movement Collection**  
-Images in cluster 2 are defined by their lack of definition. While parts of these images may be clearer than others, this collection is cemented in the frequent presence of non-distint lines and the implication of movement.
+Images in cluster 2 are defined by their lack of definition. While parts of these images may be clearer than others, this collection is cemented in the frequent presence of non-distint lines and the implication of movement.  
+![cluster image](images/cluster2a.png) ![cluster image](images/cluster2b.png) ![cluster image](images/cluster2c.png)
 
 **Cluster 3: The Surreal-in-form Collection**  
 Images in cluster 3 contain bold, distinct forms that vary in their realism and experiment with light and scattered shapes.
@@ -51,7 +54,8 @@ Images in cluster 5 are primarily defined by their scratchy qualities and messy 
 Images in cluster 6 are drawn together by the way their high-contrast representations stretch across the whole canvas. They offer strange and often aggressive interpretations of organization and critiques of institutions.
 
 **Cluster 7: The Objectificationo Collection**  
-Images in cluster 7 are noted by their representations of singular objects, whether represented in multitudes or single instances. The objects in these images are contained to simple forms and usually include only one or two colors, if any.
+Images in cluster 7 are noted by their representations of singular objects, whether represented in multitudes or single instances. The objects in these images are contained to simple forms and usually include only one or two colors, if any.   
+![cluster image](images/cluster7a.png) ![cluster image](images/cluster7b.png) ![cluster image](images/cluster7c.png) ![cluster image](images/cluster7d.png) ![cluster image](images/cluster7e.png) ![cluster image](images/cluster7f.png) ![cluster image](images/cluster7g.png)  
 
 **Cluster 8: The Wild Wooden Collecion**  
 The images in cluster 8 contain mostly natural palettes, with organic textures and warm lighting. They present contained shapes and often fantastic ideas.
