@@ -21,7 +21,9 @@
 - worked on minimizing variables to clarify clusters
 
 ## Methods
-In this iteration, I chose to proceed by clustering acccording to value, hue, texture, and spacial dimension. Looking at these variables provided a lot of insight into characteristics like depth and form of the works. I went pretty abstract in describing these clusters, please understand that I was having a great time with it.
+In this iteration, I chose to proceed by clustering acccording to value, hue, texture, and spacial dimension. I proceeded with 10 clusters as the plots showed a smaller difference in size of clusters across these than in other breakdown; although 8 clusters was similar in cluster balance, I went with 10 because the smaller clusters seemed like less of an outlier when there were a few more smaller groups.
+
+Looking at these variables provided a lot of insight into characteristics like depth and form of the works. I went pretty abstract in describing these clusters, please understand that I was having a great time with it.
 
 
 # Iteration 1 Cluster Analysis
