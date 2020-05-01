@@ -23,7 +23,8 @@
 ### Methods
 In this iteration, I chose to proceed by clustering acccording to value, hue, texture, and spacial dimension. I proceeded with 10 clusters as the plots showed a smaller difference in size of clusters across these than in other breakdown; although 8 clusters was similar in cluster balance, I went with 10 because the smaller clusters seemed like less of an outlier when there were a few more smaller groups.
 
-![8 clusters was my scon choice](images/8clusters.png) ![10 clusters was my first choice](images/10clusters.png)
+![8 clusters was my scon choice](images/8clusters.png) ![10 clusters was my first choice](images/10clusters.png)  
+_8 clusters vs. 10 clusters_  
 
 Looking at these variables provided a lot of insight into characteristics like depth and form of the works. I went pretty abstract in describing these clusters, please understand that I was having a great time with it.
 
