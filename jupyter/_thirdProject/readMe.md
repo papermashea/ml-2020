@@ -26,7 +26,7 @@ In this iteration, I chose to proceed by clustering acccording to value, hue, te
 ![8 clusters was my scon choice](images/8clusters.png) ![10 clusters was my first choice](images/10clusters.png)  
 _8 clusters vs. 10 clusters_  
 
-Looking at these variables provided a lot of insight into characteristics like depth and form of the works. I went pretty abstract in describing these clusters, please understand that I was having a great time with it.
+Looking at these variables provided a lot of insight into characteristics like depth and form of the works. I have inluded curator descriptions for each collection, and samples from clusters 0, 1, 2, 7 and 9. I went pretty abstract in describing these clusters, please understand that I was having a great time with it.
 
 
 ## Iteration 1 Cluster Analysis:
