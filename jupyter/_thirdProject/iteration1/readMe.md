@@ -1,6 +1,6 @@
 ## Iteration 1:
 
-### Proccess notes
+### Process notes
 - bertin variables produce very few image cluster results
 - tested bertin variables with varying clusters
 	- using 4, 8, 12, 16, 20, 24 clusters
