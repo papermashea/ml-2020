@@ -1,6 +1,6 @@
-# Iteration 1:
+## Iteration 1:
 
-## Proccess notes
+### Proccess notes
 - bertin variables produce very few image cluster results
 - tested bertin variables with varying clusters
 	- using 4, 8, 12, 16, 20, 24 clusters
@@ -20,13 +20,13 @@
 - playing with bertin variables and binary options 
 - worked on minimizing variables to clarify clusters
 
-## Methods
+### Methods
 In this iteration, I chose to proceed by clustering acccording to value, hue, texture, and spacial dimension. I proceeded with 10 clusters as the plots showed a smaller difference in size of clusters across these than in other breakdown; although 8 clusters was similar in cluster balance, I went with 10 because the smaller clusters seemed like less of an outlier when there were a few more smaller groups.
 
 Looking at these variables provided a lot of insight into characteristics like depth and form of the works. I went pretty abstract in describing these clusters, please understand that I was having a great time with it.
 
 
-# Iteration 1 Cluster Analysis
+## Iteration 1 Cluster Analysis:
 **Cluster 0:  The Colorful Boundaries Collection
 Images in cluster 0 can be identified with their colorful, primarily primary, palettes. The shapes have strong, 
 
