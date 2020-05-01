@@ -12,6 +12,7 @@ ERROR line 15
 
 
 Iteration 1:
+- added 
 - could not get string to float "UK", line 27
 	- removed country_of_origin
 	- get the same error with basically every variable including a string
@@ -22,5 +23,11 @@ Iteration 1:
 	/opt/anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:9: ConvergenceWarning: Number of distinct clusters (90) found smaller than n_clusters (100). Possibly due to duplicate points in X.
   if __name__ == '__main__':
 
-Iteration 2:
-In iteration 2 I would like to work on applying TDIF vectorizor to analyze movement, medium and country of origin
+
+Iteration 1 Cluster Analysis
+*** Cluster 0:  The Colorful Boundaries Collection ***
+Images in cluster 0 can be identified with their colorful, primarily primary, palettes. The shapes have strong, 
+
+*** Cluster 1: The Deep Monotonous Dream Collection  ***
+Images in cluster 1 are consistent with their ambiguous lines and sharp perspectives. This collection is noted by the varied depth of the images, as well as their limited coloration.
+
