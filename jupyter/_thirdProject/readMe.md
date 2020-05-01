@@ -27,7 +27,7 @@ Looking at these variables provided a lot of insight into characteristics like d
 
 
 ## Iteration 1 Cluster Analysis:
-**Cluster 0:  The Colorful Boundaries Collection
+**Cluster 0:  The Colorful Boundaries Collection**
 Images in cluster 0 can be identified with their colorful, primarily primary, palettes. The shapes have strong, 
 
 **Cluster 1: The Deep Monotonous Dream Collection**
@@ -36,23 +36,23 @@ Images in cluster 1 are consistent with their ambiguous lines and sharp perspect
 **Cluster 2: The Blurred Movement Collection**
 Images in cluster 2 are defined by their lack of definition. While parts of these images may be clearer than others, this collection is cemented in the frequent presence of non-distint lines and the implication of movement.
 
-**Cluster 3: The Surreal-in-form Collection
+**Cluster 3: The Surreal-in-form Collection**
 Images in cluster 3 contain bold, distinct forms that vary in their realism and experiment with light and scattered shapes.
 
-**Cluster 4: The Long Horizon Collection
+**Cluster 4: The Long Horizon Collection**
 Images in cluster 4 contain all different interpretations of landscapes. These images display combinations of distance and depth paired with limited color palettes ranging from 2-4 colors
 
-**Cluster 5: The Abstract Scratch Collectioon
+**Cluster 5: The Abstract Scratch Collection**
 Images in cluster 5 are primarily defined by their scratchy qualities and messy forms. These images offer many interpretations of what "messy" can be and offten draw from dramatic lighting.
 
-**Cluster 6: The Scattered Fragment Collection
+**Cluster 6: The Scattered Fragment Collection**
 Images in cluster 6 are drawn together by the way their high-contrast representations stretch across the whole canvas. They offer strange and often aggressive interpretations of organization and critiques of institutions.
 
-**Cluster 7: The Objectificationo Collection
+**Cluster 7: The Objectificationo Collection**
 Images in cluster 7 are noted by their representations of singular objects, whether represented in multitudes or single instances. The objects in these images are contained to simple forms and usually include only one or two colors, if any.
 
-**Cluster 8: The Wild Wooden Collecion
+**Cluster 8: The Wild Wooden Collecion**
 The images in cluster 8 contain mostly natural palettes, with organic textures and warm lighting. They present contained shapes and often fantastic ideas.
 
-**Cluster 9: The Droopy Grunge Collection
+**Cluster 9: The Droopy Grunge Collection**
 The images in cluster 9 are seen as melancholy in intention, with a wide variety of color usage and grungy textures. These images are often segmented composition, and contain subtle movement.
