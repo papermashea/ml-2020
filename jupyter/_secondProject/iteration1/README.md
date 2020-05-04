@@ -5,7 +5,10 @@
 - hog produced no false positives for perceptron model training data
 - hog produced better results for the neural network test data
 - applying StandardScaler() takes forever to process somehow
+- experimenting with greyscale vs. not also takes a long time to load
 - hog transformation still slow when scaler is removed
 - tried playing with the size of the images and it loaded way slower
 - nn has fewer FP than pc (1 vs. 0)
 - uploaded cropped images, images with no plane and images with planes to teachable machine for feature exploration
+- moving forward with nn model beacuse it's performing slightly better and is more interesting (minimize to improve load speed)
+
