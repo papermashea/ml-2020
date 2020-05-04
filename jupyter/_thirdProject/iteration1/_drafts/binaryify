@@ -1,0 +1,36 @@
+X = art_data[['artist', 'art_movement', 'country_of_origin', 'has_text', 'primary_medium', 'date', 'kinetic', 'map', 'spatial_dimension', 'si', 'va', 'te', 'co', 'or', 'sh', 'reflection', 'po', 'li', 'ar']] # pick the best columns 
+
+# Binarize text/string columns to numbers - this is the encoder - MUST BE NUMBERS OR BOOLEANS. then concatenate columns to X (above)so that they contain quanitative not qualitative data
+
+#le.transform(["artist", "date", "primary_medium"])
+enc.transform(art_data [['primary_medium']).toarray()
+
+from sklearn.preprocessing import OneHotEncoder
+enc = OneHotEncoder(handle_unknown='ignore')
+medium = [['drawing'], ['installation'], ['painting'], ['photography'], ['print'], ['sculpture'], ['video_film']]
+enc.fit
+(medium)
+
+# Binarize text/string columns to numbers
+
+#le.transform(["artist", "date", "primary_medium"])
+enc.transform([['drawing'], ['installation'], ['painting'], ['photography'], ['print'], ['sculpture'], ['video_film']]).toarray()
+
+array([[1., 0., 0., 0., 0., 0., 0.],
+       [0., 1., 0., 0., 0., 0., 0.],
+       [0., 0., 1., 0., 0., 0., 0.],
+       [0., 0., 0., 1., 0., 0., 0.],
+       [0., 0., 0., 0., 1., 0., 0.],
+       [0., 0., 0., 0., 0., 1., 0.],
+       [0., 0., 0., 0., 0., 0., 1.]])
+
+       enc.inverse_transform
+
+array([['drawing'],
+       ['installation'],
+       ['painting'],
+       ['photography'],
+       ['print'],
+       ['sculpture'],
+       ['video_film']], dtype=object)
+
