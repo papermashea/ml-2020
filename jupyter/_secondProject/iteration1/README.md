@@ -29,7 +29,7 @@ Working with canny edge detection yeilded terrible results with and without addi
 #### Greycoprops  
 Greycoprops initially produced outstanding results with the parameters symmetric and normed both set to true. However, they performed this way inconsisently without a gradient descent. When I attempted to apply the histogram of oriented gradients, I found myself unable to apply the hog to the greycoprops feature because it produced negative numbers. I was unable to resolve this even after attempting to normalize blocks as a parameter of greycoprops. Sadly, I had to give up. I would like to find another way to normalize greycoprops in the future as this feature was occassionally very exciting for these images.  
 ![greycoprops1](https://github.com/papermashea/ml-2020/blob/master/jupyter/_secondProject/iteration1/_comparisons/_greycoprops_symmetric-true_normed-true.png "Greycoprops was exciting when it wanted to be")
-![greycoprops1](https://github.com/papermashea/ml-2020/blob/master/jupyter/_secondProject/iteration1/_comparisons/_greycoprops_symmetric-true_normed-true2.png)
+![greycoprops1](https://github.com/papermashea/ml-2020/blob/master/jupyter/_secondProject/iteration1/_comparisons/_greycoprops_symmetric-true_normed-true2.png "Greycoprops was exciting when it wanted to be")
 
 #### Daisy  
 I was interested in working with daisy for the density of the histogram extraction, given the similarity and blurriness of our sample images. I tried working with daisy in conjunction with the hessian matrix and rgb/hsv conversion since the daisy ndarray inputs and outputs did't align with the array needed.  
