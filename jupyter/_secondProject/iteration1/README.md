@@ -1,6 +1,6 @@
 ## Iteration 1  
-Notebook:
-CSV:
+Notebook:  [papermashea/_secondProject/iteration1](https://github.com/papermashea/ml-2020/tree/master/jupyter/_secondProject/iteration1)  
+- [final CSV](https://github.com/papermashea/ml-2020/blob/master/jupyter/_secondProject/iteration1/airplane_submission.csv)  
 
 ### Overall approach  
 For this project I attempted to warp the image as much as I could, focusing on feature extraction and transformations rather than model tweaking. I worked with texture and color features and in future iterations would like to work with blob detection and color channels. My most consistent-performing submission focuses on the following:  
