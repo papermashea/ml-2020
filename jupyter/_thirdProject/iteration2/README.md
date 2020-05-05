@@ -1,18 +1,8 @@
 ## Iteration 2:
+### WIP  
+In this iteration, I'm working on binarizing the primary_mediums as well as running a hashing vectorizor on the art_movements. This is a work in progress but I plan on continuing this work as iteration 1 was so fun. I aim to to explore art_movement and primary_medium in addition to the bertin variables value, color, texture, and the spacial dimension option. To examine this data, I used filtering mechanisms in Microsoft Excel.
 
-### Process notes
-- attempting to incorporate binarization or hashing for medium and movement variables
+### Methods  
+*primary_medium*: to explore the primary mediums of these works, I've tried label binarization (which produced a TypeError: fit() takes 2 positional arguments but 8 were given), forced a data overwrite with pandas (producing a copy error), and am now working with [OneHotEncoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html), which will produce a numerical array mapping to the categorical data.primary_medium. OneHotEncoder is an acceptable method for this goal since there are only 7 catgeories. It would be unscalable for a data frame with many categories or a lot of blank data.  
 
-### Methods
-In this iteration, I wanted to explore art_movement and primary_medium in addition to the bertin variables value, color, texture, and the spacial dimension option.
-
-![8 clusters was my scon choice](images/8clusters.png) ![10 clusters was my first choice](images/10clusters.png)  
-_8 clusters vs. 10 clusters_  
-
-Looking at these variables provided a lot of insight into characteristics like depth and form of the works. I have inluded curator descriptions for each collection, and samples from clusters 0, 1, 2, 7 and 9. I went pretty abstract in describing these clusters, please understand that I was having a great time with it.
-
-
-## Iteration 2 Cluster Analysis:
-**Cluster 0:  The Colorful Boundaries Collection**  
-Images in cluster 0 can be identified with their colorful, primarily primary, palettes. The shapes have strong lines and bold forms.  
-
+*art_movement*: to cluster by art_movement, I will have to run a [hashing vectorizor](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.HashingVectorizer.html) because there are so many options and a lot of blank data. There are upwards of 28 art movements listed in this data set, so binarizing will be too onerous to apply. After I run the hashing vectorizor, I will work on 
