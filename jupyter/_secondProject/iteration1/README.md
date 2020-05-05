@@ -34,8 +34,7 @@ I was interested in working with daisy for the density of the histogram extracti
 
 
 ### Process notes  
-See "/_comparisons" for process examples and plots  
-
+See "_comparisons" for process examples and plots  
 - multi-layer perceptron seems to be performing significantly better on training data, but about the same on test data
 - nn has fewer FP than pc (1 vs. 0), typically performing higher
 - uploaded cropped images, images with no plane and images with planes to teachable machine for feature exploration - json was a little too complex to incorporate into jupyter notebook workflow
