@@ -4,7 +4,7 @@
 - bertin variables produce very few image cluster results
 - tested bertin variables with varying clusters
 	- using 4, 8, 12, 16, 20, 24 clusters
-	- also tried multipls of 3 and multipls of 5
+	- also tried multiples of 3 and multipls of 5
 	- uneven distribution
 	- none of these seem remotely related
 	- ERROR line 15
