@@ -58,7 +58,7 @@ Images in cluster 5 are primarily defined by their scratchy qualities and messy 
 **Cluster 6: The Scattered Fragment Collection**  
 Images in cluster 6 are drawn together by the way their high-contrast representations stretch across the whole canvas. They offer strange and often aggressive interpretations of organization and critiques of institutions.
 
-**Cluster 7: The Objectificationo Collection**  
+**Cluster 7: The Singular Objectification Collection**  
 Images in cluster 7 are noted by their representations of singular objects, whether represented in multitudes or single instances. The objects in these images are contained to simple forms and usually include only one or two colors, if any.  
 
 ![cluster image](images/cluster7a.jpeg) ![cluster image](images/cluster7b.jpeg) ![cluster image](images/cluster7c.jpeg) ![cluster image](images/cluster7d.jpeg) ![cluster image](images/cluster7e.jpeg) ![cluster image](images/cluster7f.jpeg) ![cluster image](images/cluster7g.jpeg)  
